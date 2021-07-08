@@ -11,7 +11,3 @@
 * JavaScript
 * Tilt.js
   
-## O que mudei no projeto original?
-
-  * Adicionei Tilt.js
-  * Troquei as cores e adicionei efeitos de Hover 
