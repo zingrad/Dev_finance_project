@@ -1,8 +1,8 @@
-# Dev Finance Project 
+# Dev Finances Project 
 
 ## Introdução 
 
-#### esse projeto foi desenvolvido em uma maratona da RocketSeat com o intuito de revisar meus conhecimentos 
+#### Dev Finances uma aplicação financeira que ajuda a controlar os seus gastos diários
 
 ## Tecnologias Utilizadas
 
